@@ -1,2 +1,6 @@
-accessport: 访问端口
-shutdownport: 关闭指令端口
+accessport:
+    name: 访问端口
+    val: 8080
+shutdownport:
+    name: 关闭指令端口
+    val: 
