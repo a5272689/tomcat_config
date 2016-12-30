@@ -3,4 +3,3 @@ accessport:
     val: 8080
 shutdownport:
     name: 关闭指令端口
-    val: 
