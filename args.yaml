@@ -4,3 +4,6 @@ accessport:
 shutdownport:
     name: 关闭指令端口
     val: 8005
+ajpport:
+    name: AJP端口
+    val: 8009
