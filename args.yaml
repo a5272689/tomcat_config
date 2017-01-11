@@ -7,3 +7,6 @@ shutdownport:
 ajpport:
     name: AJP端口
     val: 8009
+protocol:
+    name: 访问协议
+    val: HTTP/1.1

@@ -14,7 +14,7 @@
               pathname="conf/tomcat-users.xml" />
   </GlobalNamingResources>
   <Service name="Catalina">
-    <Connector port="{{ accessport }}" protocol="HTTP/1.1"
+    <Connector port="{{ accessport }}" protocol="{{ protocol }}"
                connectionTimeout="20000"
                minSpareThreads="25"
                maxThreads="1000"
